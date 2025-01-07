@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: Yong Min Choi
 
 # Your name to show in the footer
-author: Some Person
+author: Yong Min Choi
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Ph.D. Candidate at the Ohio State University"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
