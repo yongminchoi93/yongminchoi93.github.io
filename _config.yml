@@ -22,9 +22,7 @@ author: Yong Min Choi
 navbar-links:
   About Me: "About me"
   CV: "https://www.dropbox.com/scl/fi/v4gcdkwlyx05gjxkgdikh/CV_YongMinChoi_12.31.2024.pdf?rlkey=73wapfwgwzauke2358w8soao0&dl=0"
-  More information:
-    - CV: "https://www.dropbox.com/scl/fi/v4gcdkwlyx05gjxkgdikh/CV_YongMinChoi_12.31.2024.pdf?rlkey=73wapfwgwzauke2358w8soao0&dl=0"
-    - Google Scholar: "https://scholar.google.com/citations?user=rcna988AAAAJ&hl=en"
+  Google Scholar: "https://scholar.google.com/citations?user=rcna988AAAAJ&hl=en"
 
   Author's home: "Googl"
 
@@ -35,7 +33,7 @@ navbar-links:
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
 # avatar: "/assets/img/avatar-icon.png"
-avatar: "https://www.dropbox.com/scl/fi/ojjp033mh1kr9ht016786/FDB05DFB-EFD8-49E9-A368-C9E84CC02EDD.JPG?rlkey=dkkkhqyuaqt0ixkwxq3tdpk8w&dl=0"
+avatar: "assets/img/FDB05DFB-EFD8-49E9-A368-C9E84CC02EDD copy.JPG"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
