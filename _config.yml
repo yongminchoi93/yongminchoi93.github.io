@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: 안녕하세요 Hello
+title: Welcome to my website :)
 
 # Your name to show in the footer
 author: Yong Min Choi
@@ -20,7 +20,8 @@ author: Yong Min Choi
 ###############################################
 
 navbar-links:
-  About Me: "_posts/2020-02-26-flake-it-till-you-make-it.md"
+  About Me: 
+    - aa: "_posts/2020-02-26-flake-it-till-you-make-it.md"
   CV: "https://www.dropbox.com/scl/fi/v4gcdkwlyx05gjxkgdikh/CV_YongMinChoi_12.31.2024.pdf?rlkey=73wapfwgwzauke2358w8soao0&dl=0"
   Google Scholar: "https://scholar.google.com/citations?user=rcna988AAAAJ&hl=en"
 
