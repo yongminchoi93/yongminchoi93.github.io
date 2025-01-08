@@ -4,7 +4,6 @@ title: About me
 subtitle: Ph.D Candidate at The Ohio State University
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [introduction]
-tags: [test, introduction]
 comments: true
 mathjax: true
 author: Yong Min Choi
