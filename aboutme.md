@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About me
 subtitle: Ph.D Candidate at The Ohio State University
 gh-repo: daattali/beautiful-jekyll
