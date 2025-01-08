@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About me
+subtitle: Updated Jan 8, 2025
 cover-img: /assets/img/osuoval.jpeg
 thumbnail-img: /assets/img/FDB05DFB-EFD8-49E9-A368-C9E84CC02EDD copy.JPG
 share-img: /assets/img/FDB05DFB-EFD8-49E9-A368-C9E84CC02EDD copy.JPG
