@@ -22,6 +22,15 @@ author: Yong Min Choi
 navbar-links:
   CV: assets/img/CV_YongMinChoi.pdf
   Google Scholar: "https://scholar.google.com/citations?user=rcna988AAAAJ&hl=en"
+  Poster (selecter):
+    - 2024CCBBI: assets/img/2024CCBBI.pdf
+    - 2024OHBM: assets/img/2024OHBM.pdf
+    - 2022OPAM: assets/img/2022OPAM.pdf
+    - 2021VSS: assets/img/2021VSS.pdf
+    - 2020VSS: assets/img/2020VSS.pdf
+    - 2019VSS: assets/img/2019VSS.pdf
+    
+    
 
 ################
 # --- Logo --- #
