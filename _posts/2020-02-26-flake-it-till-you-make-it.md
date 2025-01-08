@@ -2,7 +2,7 @@
 layout: post
 title: About me
 
-cover-img: https://www.google.com/url?sa=i&url=https%3A%2F%2Fpsychology.osu.edu%2Fabout&psig=AOvVaw1mN47mtbTIBgyYkpx9cr6h&ust=1736443275788000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNj_7rvR5ooDFQAAAAAdAAAAABAE
+cover-img: /assets/img/osuoval.jpeg
 thumbnail-img: /assets/img/jglab.jpeg
 share-img: /assets/img/jglab.jpeg
 
