@@ -3,8 +3,8 @@ layout: post
 title: About me
 subtitle: Ph.D Candidate at The Ohio State University
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [introduction]
-tags: [test, introduction]
+gh-badge: [star, fork, follow]
+tags: [test]
 comments: true
 mathjax: true
 author: Yong Min Choi
