@@ -2,8 +2,8 @@
 layout: post
 title: About me
 cover-img: /assets/img/osuoval.jpeg
-thumbnail-img: /assets/img/jglab.jpeg
-share-img: /assets/img/jglab.jpeg
+thumbnail-img: /assets/img/FDB05DFB-EFD8-49E9-A368-C9E84CC02EDD copy.JPG
+share-img: /assets/img/FDB05DFB-EFD8-49E9-A368-C9E84CC02EDD copy.JPG
 
 ---
 
