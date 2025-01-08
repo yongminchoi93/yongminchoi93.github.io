@@ -3,11 +3,11 @@ layout: post
 title: About me
 subtitle: Ph.D Candidate at The Ohio State University
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+gh-badge: [introduction]
+tags: [test, introduction]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Yong Min Choi
 ---
 
 
