@@ -20,6 +20,8 @@ author: Yong Min Choi
 ###############################################
 
 navbar-links:
+  aboutme: assets/img/CV_YongMinChoi_12.31.2024.pdf
+  aboutme2: aboutme
   CV: "https://www.dropbox.com/scl/fi/v4gcdkwlyx05gjxkgdikh/CV_YongMinChoi_12.31.2024.pdf?rlkey=73wapfwgwzauke2358w8soao0&dl=0"
   Google Scholar: "https://scholar.google.com/citations?user=rcna988AAAAJ&hl=en"
 
