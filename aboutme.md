@@ -8,7 +8,9 @@ comments: true
 mathjax: true
 author: Yong Min Choi
 ---
+[assets/img/CV_YongMinChoi_12.31.2024.pdf]
 
+assets/img/CV_YongMinChoi_12.31.2024.pdf
 
 ## Educational/Academical background.
 Choosing the right crayon for coloring the tree has always been a challenging task for me because I am a dichromat, lacking particular sensitivity to red. When people hear about my color deficiency, they often ask how the world I see is different from theirs. They assume that my visual experience is inferior and unsatisfying. However, I do experience the vibrant colors of autumn foliage, and the sun dyeing the blue sky into a blazing orange. 
